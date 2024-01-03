@@ -1,2 +1,3 @@
 # Coffee-website
-Coffee website using html css javascript with swiper js 
+Using Html, modern css techs, responsive with all media
+Using Javascript to add some features like swiper js and scrollreveal js
